@@ -19,6 +19,14 @@
       "default": "./dist/index.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yukasama/genanki-ts.git"
+  },
+  "homepage": "https://github.com/Yukasama/genanki-ts#readme",
+  "bugs": {
+    "url": "https://github.com/Yukasama/genanki-ts/issues"
+  },
   "files": [
     "dist",
     "LICENSE"
