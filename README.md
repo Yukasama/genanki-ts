@@ -2,7 +2,6 @@
 
 TypeScript-Port von [genanki](https://github.com/kerrickstaley/genanki) 0.13.1
 (MIT, © Kerrick Staley): erzeugt Anki-Decks (`.apkg`) programmatisch.
-Ersetzt die Python-Abhängigkeit im `docuvalley-carddeck`-Service.
 
 Keine Runtime-Dependencies: SQLite kommt aus `node:sqlite`, `zlib` aus Node,
 den Zip-Writer (`src/zip.ts`) und den Mustache-Renderer (`src/mustache.ts`)
@@ -54,8 +53,4 @@ festen Timestamp (Sekunden), dann ist die Ausgabe byte-identisch reproduzierbar.
 
 `pnpm test`. `test/parity.spec.ts` vergleicht alle Zeilen der `notes`/`cards`-
 Tabellen und alle JSON-Blobs der `col`-Tabelle mit einem Golden File, das
-Python-genanki 0.13.1 erzeugt hat. Neu erzeugen:
-
-```sh
-docuvalley-carddeck/.venv/bin/python test/parity_dump.py test/parity.golden.json
-```
+Python-genanki 0.13.1 erzeugt hat.
