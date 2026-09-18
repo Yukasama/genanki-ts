@@ -1,0 +1,44 @@
+{
+  "name": "@yukasama/genanki-ts",
+  "version": "0.1.0",
+  "description": "TypeScript-Port von genanki: erzeugt Anki-Decks (.apkg) programmatisch.",
+  "license": "MIT",
+  "author": "Yukasama",
+  "keywords": [
+    "anki",
+    "apkg",
+    "flashcards",
+    "genanki"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=26"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "lint:ts": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "pnpm lint:ts && pnpm test && pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

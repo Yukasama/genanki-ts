@@ -1,0 +1,983 @@
+{
+ "cards": [
+  [
+   1700000000501,
+   1700000000500,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000503,
+   1700000000502,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000505,
+   1700000000504,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000506,
+   1700000000504,
+   123456789,
+   2,
+   1700000000,
+   -1,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000508,
+   1700000000507,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000509,
+   1700000000507,
+   123456789,
+   1,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000511,
+   1700000000510,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000513,
+   1700000000512,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000514,
+   1700000000512,
+   123456789,
+   1,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000516,
+   1700000000515,
+   123456789,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000518,
+   1700000000517,
+   123456789,
+   1,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000520,
+   1700000000519,
+   42,
+   0,
+   1700000000,
+   -1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   ""
+  ]
+ ],
+ "col": [
+  [
+   1,
+   1411124400,
+   1425279151694,
+   1425279151690,
+   11,
+   0,
+   0,
+   0
+  ],
+  {
+   "activeDecks": [
+    1
+   ],
+   "addToCur": true,
+   "collapseTime": 1200,
+   "curDeck": 1,
+   "curModel": "1425279151691",
+   "dueCounts": true,
+   "estTimes": true,
+   "newBury": true,
+   "newSpread": 0,
+   "nextPos": 1,
+   "sortBackwards": false,
+   "sortType": "noteFld",
+   "timeLim": 0
+  },
+  {
+   "1305534440": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Front",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Back",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1305534440",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Basic (type in the answer) (genanki)",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 1",
+      "ord": 0,
+      "qfmt": "{{Front}}\n\n{{type:Back}}"
+     }
+    ],
+    "type": 0,
+    "usn": -1,
+    "vers": []
+   },
+   "1382232460": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Front",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Back",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Add Reverse",
+      "ord": 2,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1382232460",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Basic (optional reversed card) (genanki)",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0
+      ]
+     ],
+     [
+      1,
+      "all",
+      [
+       1,
+       2
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 1",
+      "ord": 0,
+      "qfmt": "{{Front}}"
+     },
+     {
+      "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 2",
+      "ord": 1,
+      "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+     }
+    ],
+    "type": 0,
+    "usn": -1,
+    "vers": []
+   },
+   "1485830179": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Front",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Back",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1485830179",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Basic (and reversed card) (genanki)",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0
+      ]
+     ],
+     [
+      1,
+      "all",
+      [
+       1
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 1",
+      "ord": 0,
+      "qfmt": "{{Front}}"
+     },
+     {
+      "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 2",
+      "ord": 1,
+      "qfmt": "{{Back}}"
+     }
+    ],
+    "type": 0,
+    "usn": -1,
+    "vers": []
+   },
+   "1550428389": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Text",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Back Extra",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1550428389",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Cloze (genanki)",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0,
+       1
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Cloze",
+      "ord": 0,
+      "qfmt": "{{cloze:Text}}"
+     }
+    ],
+    "type": 1,
+    "usn": -1,
+    "vers": []
+   },
+   "1559383000": {
+    "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+    "did": 42,
+    "flds": [
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Front",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Arial",
+      "media": [],
+      "name": "Back",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1559383000",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Basic (genanki)",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 1",
+      "ord": 0,
+      "qfmt": "{{Front}}"
+     }
+    ],
+    "type": 0,
+    "usn": -1,
+    "vers": []
+   },
+   "1607392319": {
+    "css": "",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Liberation Sans",
+      "media": [],
+      "name": "Front",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Liberation Sans",
+      "media": [],
+      "name": "Back",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1607392319",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Docuvalley Basic",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{FrontSide}}<hr id=\"answer\">{{Back}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Card 1",
+      "ord": 0,
+      "qfmt": "{{Front}}"
+     }
+    ],
+    "type": 0,
+    "usn": -1,
+    "vers": []
+   },
+   "1607392320": {
+    "css": "",
+    "did": 123456789,
+    "flds": [
+     {
+      "font": "Liberation Sans",
+      "media": [],
+      "name": "Text",
+      "ord": 0,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     },
+     {
+      "font": "Liberation Sans",
+      "media": [],
+      "name": "Extra",
+      "ord": 1,
+      "rtl": false,
+      "size": 20,
+      "sticky": false
+     }
+    ],
+    "id": "1607392320",
+    "latexPost": "\\end{document}",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexsvg": false,
+    "mod": 1700000000,
+    "name": "Docuvalley Cloze",
+    "req": [
+     [
+      0,
+      "all",
+      [
+       0,
+       1
+      ]
+     ]
+    ],
+    "sortf": 0,
+    "tags": [],
+    "tmpls": [
+     {
+      "afmt": "{{cloze:Text}}<hr id=\"answer\">{{Extra}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "name": "Cloze Card",
+      "ord": 0,
+      "qfmt": "{{cloze:Text}}"
+     }
+    ],
+    "type": 1,
+    "usn": -1,
+    "vers": []
+   }
+  },
+  {
+   "1": {
+    "collapsed": false,
+    "conf": 1,
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "id": 1,
+    "lrnToday": [
+     0,
+     0
+    ],
+    "mod": 1425279151,
+    "name": "Default",
+    "newToday": [
+     0,
+     0
+    ],
+    "revToday": [
+     0,
+     0
+    ],
+    "timeToday": [
+     0,
+     0
+    ],
+    "usn": 0
+   },
+   "123456789": {
+    "collapsed": false,
+    "conf": 1,
+    "desc": "desc",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 50,
+    "id": 123456789,
+    "lrnToday": [
+     163,
+     2
+    ],
+    "mod": 1425278051,
+    "name": "Parity Deck",
+    "newToday": [
+     163,
+     2
+    ],
+    "revToday": [
+     163,
+     0
+    ],
+    "timeToday": [
+     163,
+     23598
+    ],
+    "usn": -1
+   },
+   "42": {
+    "collapsed": false,
+    "conf": 1,
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 50,
+    "id": 42,
+    "lrnToday": [
+     163,
+     2
+    ],
+    "mod": 1425278051,
+    "name": "Second",
+    "newToday": [
+     163,
+     2
+    ],
+    "revToday": [
+     163,
+     0
+    ],
+    "timeToday": [
+     163,
+     23598
+    ],
+    "usn": -1
+   }
+  },
+  {
+   "1": {
+    "autoplay": true,
+    "id": 1,
+    "lapse": {
+     "delays": [
+      10
+     ],
+     "leechAction": 0,
+     "leechFails": 8,
+     "minInt": 1,
+     "mult": 0
+    },
+    "maxTaken": 60,
+    "mod": 0,
+    "name": "Default",
+    "new": {
+     "bury": true,
+     "delays": [
+      1,
+      10
+     ],
+     "initialFactor": 2500,
+     "ints": [
+      1,
+      4,
+      7
+     ],
+     "order": 1,
+     "perDay": 20,
+     "separate": true
+    },
+    "replayq": true,
+    "rev": {
+     "bury": true,
+     "ease4": 1.3,
+     "fuzz": 0.05,
+     "ivlFct": 1,
+     "maxIvl": 36500,
+     "minSpace": 1,
+     "perDay": 100
+    },
+    "timer": 0,
+    "usn": 0
+   }
+  },
+  {}
+ ],
+ "media": {
+  "0": "pic.png"
+ },
+ "mediaData": "89504e4766616b65",
+ "names": [
+  "0",
+  "collection.anki2",
+  "media"
+ ],
+ "notes": [
+  [
+   1700000000500,
+   "g-1-basic",
+   1607392319,
+   1700000000,
+   -1,
+   "  ",
+   "Q1\u001fA1",
+   "Q1",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000502,
+   "i[L<6SSkk6",
+   1607392319,
+   1700000000,
+   -1,
+   " a b ",
+   "Q2 <b>bold</b>\u001f",
+   "Q2 <b>bold</b>",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000504,
+   "g-cloze",
+   1607392320,
+   1700000000,
+   -1,
+   "  ",
+   "{{c1::x}} and {{c3::y}} {{c1::z}}\u001fextra",
+   "{{c1::x}} and {{c3::y}} {{c1::z}}",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000507,
+   "HwdK}L&@%@",
+   1485830179,
+   1700000000,
+   -1,
+   "  ",
+   "F\u001fB",
+   "F",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000510,
+   "b*:<eB?WMw",
+   1382232460,
+   1700000000,
+   -1,
+   "  ",
+   "F\u001fB\u001f",
+   "F",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000512,
+   "vXvP#+JHHo",
+   1382232460,
+   1700000000,
+   -1,
+   "  ",
+   "F\u001fB\u001fy",
+   "F",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000515,
+   "HwdK}L&@%@",
+   1305534440,
+   1700000000,
+   -1,
+   "  ",
+   "F\u001fB",
+   "sortme",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000517,
+   "E3$QyVn?og",
+   1550428389,
+   1700000000,
+   -1,
+   "  ",
+   "{{c2::a}}\u001f",
+   "{{c2::a}}",
+   0,
+   0,
+   ""
+  ],
+  [
+   1700000000519,
+   "z>pv@17F`E",
+   1559383000,
+   1700000000,
+   -1,
+   "  ",
+   "\u00fcn\u00ef\u001fc\u00f6d\u00e9",
+   "\u00fcn\u00ef",
+   0,
+   0,
+   ""
+  ]
+ ]
+}
