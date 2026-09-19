@@ -36,6 +36,7 @@
   },
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
+    "prepare": "tsc -p tsconfig.build.json",
     "lint:ts": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
